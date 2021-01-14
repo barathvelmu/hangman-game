@@ -23,9 +23,7 @@ To do this, copy the url link of the project. Open up your command line (e.g. te
 Now run, 
 
 ```
-
 git clone link-of-project
-
 ```
 
 and hit enter. 
@@ -34,9 +32,7 @@ and hit enter.
 To do this simply run,
 
 ``` 
-
 python hangman.py 
-
 ```
 
 and that will run the program for you. 
