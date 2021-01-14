@@ -18,10 +18,20 @@ Yes! I used a YouTube video as a followthrough to build the project. I then made
 That is very simple! It is just a 2 step process! Please refer below.
 
 ### 1.) Clone the repository. 
-To do this, copy the url link of the project. Open up your command line (e.g. terminal, command prompt). Make sure you are in the right directory/file that you want to clone the project to (e.g. Desktop). Run "git clone link-of-project" and hit enter. 
+To do this, copy the url link of the project. Open up your command line (e.g. terminal, command prompt). Make sure you are in the right directory/file that you want to clone the project to (e.g. Desktop). 
+
+Now run, 
+
+```"git clone link-of-project" ```
+
+and hit enter. 
 
 ### 2.) Run the program
-<addr> To do this simply run "python hangman.py" and that will run the program for you. <addr>
+To do this simply run,
+
+``` "python hangman.py" ```
+
+and that will run the program for you. 
 
 There we go, we have just started the game. Happy Hangman-ing!
 
