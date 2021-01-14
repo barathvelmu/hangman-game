@@ -23,7 +23,7 @@ To do this, copy the url link of the project. Open up your command line (e.g. te
 ### 2.) Run the program
 To do this simply run "python hangman.py" and that will run the program for you. 
 
-There we go, we have just started the game. Happy Hangman-ning!
+There we go, we have just started the game. Happy Hangman-ing!
 
 ## What are your next steps?
 My next steps is to defientely bring my web development skills and try to bring this as a full fledegde web application. That would be super cool as people will get to play with their friends online. Right now as it only runs as a program, it is hard to enjoy with people online. It also doesn't carry the best user interface. 
