@@ -1,6 +1,6 @@
 # hangman-game
 
-## Hello 
+## Hi there! Welcome! 
 Welcome to my Hangman Game repository! If you are feeling the need to play some terminal hangman feel free to do so! 
 
 ## What is this project? 
